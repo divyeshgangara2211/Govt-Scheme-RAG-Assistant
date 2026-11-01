@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+pymupdf
+sentence-transformers
+qdrant-client
+rank-bm25
+fastapi
+uvicorn
+streamlit
+python-dotenv
+pytest
